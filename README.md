@@ -7,3 +7,5 @@
 Adding something.
 
 And another thing.
+
+Thing.
